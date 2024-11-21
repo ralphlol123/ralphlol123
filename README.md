@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently developing a barangay web system, <br>designed to serve local communities in the Philippines. <br>o accommodate multiple barangays, I'm implementing a <br>multi-tenant architecture for the system.<br><br>I currently use Laravel for the backend and Nuxt 3 for the frontend.<br>
+I'm currently developing a barangay web system, designed to serve local communities in the Philippines. This is a part-time project where I’m implementing a multi-tenant architecture to accommodate multiple barangays effectively.<br><br>I currently use Laravel for the backend and Nuxt 3 for the frontend.<br>
 
 
 ## 🌐 Socials:
